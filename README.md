@@ -14,6 +14,6 @@ Amoxillin is a responsive modern looking app landing page created with bootstrap
 * Owl Carousel
 * Jquery SmoothScroll
 * www.unsplash.com
-* wwww.pixabay.com
-* wwww.uifaces.com
-* wwww.quotesondesign.com
+* www.pixabay.com
+* www.uifaces.com
+* www.quotesondesign.com
