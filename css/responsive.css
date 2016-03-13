@@ -1,0 +1,42 @@
+/*
+Author : Sanal
+Version: 1.0
+Website: www.sanalmg.com
+Primary Color: #6356a8;
+Secondary Color: #3d3d3d;
+*/
+
+@media (max-width: 991px){
+
+     .screen-img {
+   	   border-right: none;
+   }
+   #home{
+   	   padding-top: 18%;
+   	}
+}
+
+
+@media (max-width: 768px){
+   #am-menu.navbar-default {
+    	background-color: rgba(99, 86, 168, 0.79);
+    	}
+
+    	#home{
+   	   padding-top: 25%;
+   	}
+}
+
+
+@media (max-width: 480px){
+
+   
+
+}
+
+
+@media (max-width: 360px){
+      #home{
+   	   padding-top: 35%;
+   	}
+}
