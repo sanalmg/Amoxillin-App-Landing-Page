@@ -198,7 +198,12 @@ ul, ol{
 	background-color: #725ab4;
 	color: #fff;
 }
-
+.ghost-button-colored:focus {
+   color:#fff;
+}
+.ghost-button-rounded:focus {
+   color:#fff;
+}
 
 /* Navigation */
 
